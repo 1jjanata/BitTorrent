@@ -7,6 +7,5 @@ function Tracker(){
   //implement all six functions below
 
 
-
-
+function numOfSeeds()
 }
