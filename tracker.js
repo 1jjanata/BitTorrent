@@ -29,7 +29,18 @@ function removeSeed(seeds, name){
 
 
 
-function reportHealth(){
+function reportHealth(list){
+  let sum = 0; 
+  for(let i = 0; i < list.length; i++){
+    sum = sum + list{i};
+  }
+  return sum/list.length;
+}
+function update(list){
+  Math.random(0, 1);
+
+
+}
 
 
 
